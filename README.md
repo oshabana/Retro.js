@@ -16,8 +16,8 @@ be shown as index.html and index.js.
 
 
 
-
-![Project Image1](https://github.com/csc309-summer-2020/js-library-shabanao/pub/img/starting-index-html.PNG)
+https://github.com/csc309-summer-2020/js-library-shabanao/blob/master/pub/starting-index-html.PNG
+![Project Image1](https://github.com/csc309-summer-2020/js-library-shabanao/blob/master/pub/starting-index-html.PNG)
 
 
  In place of "js/retro.js" you should put the location of retro.js, similarly do the same with "js/index.js". Next, we'll set up our index.js file by adding in a few lines.
