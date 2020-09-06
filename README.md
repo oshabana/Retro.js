@@ -52,7 +52,7 @@ You may also wish to add a background to your game board.
 
 ## Adding a Background
 
-![Project Image4](/doc/img/add-background.PNG)
+![Project Image4](/doc/add-background.PNG)
 
 
 
@@ -61,12 +61,12 @@ Make sure you link your css file to your html file. Also note that the game boar
 ## Changing Movement Keys
 At this point the game should be playable with the user moving with W,A,S,D key and the L key to shoot. We may choose to remap these keys by reassigning the UP, DOWN, RIGHT, LEFT and SHOOT properties of your game instance.
 
-![Project Image5](/doc/img/remap.PNG)
+![Project Image5](/doc/remap.PNG)
 ## Making Use of Collisions
 Right now, the enemy and the player can tell that they are touching each other but nothing is happening. What we have to do is specify a collisionBehavior for each sprite if we want it to do something on collision. Also, we are able to shoot the enemy but nothing is happening. Below we're going to add these functionalities in.
 
 
-![Project Image6](/doc/img/collision-behaviour.PNG)
+![Project Image6](/doc/collision-behaviour.PNG)
 
 
 A few things are happening here. First, we figure out what collided with the enemy. So far there are only two possibilities, the player or the player's projectiles. We check to see if the collider is the player and specify a behaviour. We destroy the player if this is the case. Alternatively, if a projectile hits the enemy we want the enemy to be destroyed and increment the player's score. Finally this function is useless if it is not assigned as the enemy's collisionBehavior function. Note: the variable 'me' here is unused but shows how can get the enemy to be used in whatever way you want. Such as me.hitpoints = 4 and then decrementing it each hit.
