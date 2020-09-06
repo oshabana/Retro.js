@@ -16,14 +16,14 @@ be shown as index.html and index.js.
 
 
 
-https://github.com/csc309-summer-2020/js-library-shabanao/blob/master/pub/starting-index-html.PNG
-![Project Image1](https://github.com/csc309-summer-2020/js-library-shabanao/blob/master/pub/starting-index-html.PNG)
+
+![Project Image1](https://github.com/csc309-summer-2020/js-library-shabanao/blob/master/pub/img/starting-index-html.PNG)
 
 
  In place of "js/retro.js" you should put the location of retro.js, similarly do the same with "js/index.js". Next, we'll set up our index.js file by adding in a few lines.
  
  
-![Project Image2](https://github.com/csc309-summer-2020/js-library-shabanao/pub/img/indexjs-init.PNG)
+![Project Image2](https://github.com/csc309-summer-2020/js-library-shabanao/blob/master/pub/img/indexjs-init.PNG)
 
 
  You should try running the file at this point and see if there are any errors. If so make sure retro.js and your index.js files are in the right place. 
