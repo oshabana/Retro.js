@@ -1,4 +1,4 @@
-# js-library-shabanao
+# Retro.js
 
 [Landing Page](https://boiling-ridge-29637.herokuapp.com/)
 
