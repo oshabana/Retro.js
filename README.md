@@ -5,7 +5,7 @@
 [Documentation](https://boiling-ridge-29637.herokuapp.com/documentation.html)
 
 
-[Getting Started](http://localhost:5500/pub/getting-started.html)
+[Getting Started](https://boiling-ridge-29637.herokuapp.com/getting-started.html)
 
 # Getting Started
 
